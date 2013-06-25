@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeParser", "TreeParser\TreeParser.csproj", "{265041B6-8DF3-4216-954D-7BCBC240A292}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tree", "Tree\Tree.csproj", "{CF0153B5-4578-4206-BBE8-8F5C282AC8D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{265041B6-8DF3-4216-954D-7BCBC240A292}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{265041B6-8DF3-4216-954D-7BCBC240A292}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{265041B6-8DF3-4216-954D-7BCBC240A292}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{265041B6-8DF3-4216-954D-7BCBC240A292}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF0153B5-4578-4206-BBE8-8F5C282AC8D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF0153B5-4578-4206-BBE8-8F5C282AC8D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF0153B5-4578-4206-BBE8-8F5C282AC8D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF0153B5-4578-4206-BBE8-8F5C282AC8D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
